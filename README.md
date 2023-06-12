@@ -8,7 +8,7 @@ That is a simple Random-Sentences-Generator game!
 This random sentence generator is just for fun! These sentences can provide humor and be a cool way to surprise
 others by sharing a standout sentence on social media platforms and gathering your network's reaction.
 
-My [Source Code](random_sentence_generator.py)!
+My [Source Code](random_sentences_generator.py)!
 
 # Live Demo
 
